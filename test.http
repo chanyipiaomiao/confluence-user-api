@@ -1,0 +1,12 @@
+
+### disable user
+POST http://127.0.0.1:11111/disableUser?username=test2
+
+### create user
+POST http://127.0.0.1:11111/createUser
+Content-Type: application/json
+
+{"username": "test2", "full_name": "test2", "email": "test2@xxx.com", "password": "QNSMJLp0QjBFadoNuCUlgH3Z5GQ2VeB2"}
+
+### delete user
+POST http://127.0.0.1:11111/deleteUser?username=test2

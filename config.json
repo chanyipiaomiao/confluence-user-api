@@ -1,0 +1,16 @@
+{
+    "listen": ":11111",
+    "api": {
+        "prefix": "https://rtc-wiki.xueba100.com",
+        "login_index": "/login.action",
+        "do_login": "/dologin.action",
+        "second_authenticate": "/doauthenticate.action",
+        "disable_confirm": "/admin/users/deactivateuser-confirm.action",
+        "create": "/admin/users/docreateuser.action",
+        "delete": "/admin/users/removeuser-confirm.action"
+    },
+    "admin_user": {
+        "username": "api_user",
+        "password": "rP9P0eFTKutPRrtGHzpGt8A4lJVTVqUc"
+    }
+}
