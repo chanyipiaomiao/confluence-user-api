@@ -4,7 +4,7 @@
 
 ## 配置文件
 
-```json
+```shell script
 {
     "listen": ":11111", // 监听端口
     "api": {
