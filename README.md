@@ -27,7 +27,7 @@
 
 创建用户
 
-```http request
+```golang
 POST http://127.0.0.1:11111/createUser
 Content-Type: application/json
 
@@ -36,12 +36,12 @@ Content-Type: application/json
 
 删除用户
 
-```http request
+```golang
 POST http://127.0.0.1:11111/deleteUser?username=test2
 ```
 
 禁用用户
 
-```http request
+```golang
 POST http://127.0.0.1:11111/disableUser?username=test2
 ```
