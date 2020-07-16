@@ -1,7 +1,7 @@
 {
     "listen": ":11111",
     "api": {
-        "prefix": "https://rtc-wiki.xueba100.com",
+        "prefix": "https://xxx.xxx.xxx",
         "login_index": "/login.action",
         "do_login": "/dologin.action",
         "second_authenticate": "/doauthenticate.action",
@@ -10,7 +10,7 @@
         "delete": "/admin/users/removeuser-confirm.action"
     },
     "admin_user": {
-        "username": "api_user",
-        "password": "rP9P0eFTKutPRrtGHzpGt8A4lJVTVqUc"
+        "username": "xxxx",
+        "password": "xxxxxxxxxxxxxxx"
     }
 }

@@ -45,3 +45,7 @@ POST http://127.0.0.1:11111/deleteUser?username=test2
 ```golang
 POST http://127.0.0.1:11111/disableUser?username=test2
 ```
+
+## 测试通过版本
+
+ Confluence 6.7.1
